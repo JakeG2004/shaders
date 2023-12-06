@@ -57,7 +57,7 @@ void mainImage(out vec4 fragColor, in vec2 fragCoord){
     //Set aspect ratio
     uv.x *= iResolution.x / iResolution.y;
 
-    vec3 col = vec3(1., 1., 1.);
+    vec3 col = vec3(.75, 1., 1.);
 
     float mask = 0.;
 
