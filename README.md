@@ -1,2 +1,6 @@
 # shaders
-Following tutorials by https://www.youtube.com/watch?v=GgGBR4z8C9o&list=PLGmrMu-IwbguU_nY2egTFmlg691DN7uE5&index=2
+Following tutorials by https://youtube.com/playlist?list=PLfS-CNkFIC6AKxw-sS0IwAlbbQVS-4lcp&si=zX7b-8mq95PENSVp
+
+Full credit to original maker, just had to make it my own playlist to sort by date uploaded bc youtube is STUPID
+
+
