@@ -14,7 +14,7 @@ void mainImage(out vec4 fragColor, in vec2 fragCoord){
     //Set aspect ratio
     uv.x *= iResolution.x / iResolution.y;
 
-    vec3 c = vec3(abs(sin(iTime + 1.)), abs(sin(iTime + 3.)), abs(sin(iTime - 1.)));
+    vec3 c = abs(vec3(sin(iTime + 1.), sin(iTime + 3.), sin(iTime - 1.)));
 
     fragColor += circle(uv, vec2(cos(iTime) / 2.5, sin(iTime) / 2.5), .1);
     fragColor *= vec4(c, 1.);
